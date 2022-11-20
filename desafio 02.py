@@ -1,0 +1,5 @@
+nome = input ('Qual é o seu nome?')
+dia = input ('Em que dia você nasceu?')
+mês = input ('Agora me conta: Qual o mês de seu nascimento?')
+ano = input ('Por último, me conta: Em que ano você nasceu?')
+print ('Muito prazer,', nome,'.', 'Fico feliz em saber que você nasceu em', dia, 'de', mês, 'de', ano)
