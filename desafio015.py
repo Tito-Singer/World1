@@ -1,5 +1,5 @@
-km = float(input('Quantos KM foram percorridos com o carro?'))
 dias = int(input('Por quantos dias o carro foi alugado?'))
+km = float(input('Quantos KM foram percorridos com o carro?'))
 vkm = (km * 0.15)
 vdias = (dias * 60)
 final =  vkm + vdias
